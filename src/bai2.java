@@ -43,10 +43,10 @@ class tinhtongab{
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
             
-            System.out.println("Moi nhap xau a: ");
+            System.out.println("Moi nhap  a: ");
             int a = sc.nextInt();
             
-            System.out.println("Moi nhap xau b: ");
+            System.out.println("Moi nhap  b: ");
             int b = sc.nextInt();
 
             System.out.println(("ket qua a+b: ")+ (a + b));
